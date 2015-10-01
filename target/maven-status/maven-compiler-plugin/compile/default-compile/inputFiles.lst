@@ -1,20 +1,20 @@
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/dao/ContactDAO.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/ProcessTemplateData.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/util/DeviceMapper.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/test/TestDeviceDao.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/ContactWrapper.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/MIUser.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/util/CommonUtil.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/MIDevice.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/DeviceWrapper.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/DeviceDTO.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/util/ExtJSReturn.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/service/DeviceService.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/util/DataGenerator.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/dao/DeviceDAO.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/web/DeviceController.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/web/ContactController.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/Employee.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/util/TestUtil.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/model/Contact.java
-/Users/mohit/Documents/Test_Workspace/Copy of ext4-crud-mvc/src/br/com/braziljs/loiane/service/ContactService.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/Employee.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/test/ProcessTemplateData.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/test/TestDeviceDao.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/util/DeviceMapper.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/util/CommonUtil.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/dao/DeviceDAO.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/util/ExtJSReturn.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/Contact.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/web/DeviceController.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/service/ContactService.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/web/ContactController.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/util/TestUtil.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/MIDevice.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/MIUser.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/ContactWrapper.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/util/DataGenerator.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/DeviceWrapper.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/model/DeviceDTO.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/service/DeviceService.java
+/Users/mohit/Documents/Test_Workspace/Test-Project/src/br/com/dao/ContactDAO.java
